@@ -3,9 +3,9 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/clarafritz"><img src="https://img.shields.io/badge/LinkedIn-Clara_Fritz-F9A8D4?style=for-the-badge&logo=linkedin&logoColor=F9A8D4&labelColor=0F172A" alt="LinkedIn"></a>
-  <a href="https://tryhackme.com/p/clarafritz"><img src="https://img.shields.io/badge/TryHackMe-clarafritz-F9A8D4?style=for-the-badge&logo=tryhackme&logoColor=F9A8D4&labelColor=0F172A" alt="TryHackMe"></a>
-  <a href="https://www.root-me.org/clarafritz"><img src="https://img.shields.io/badge/Root--Me-clarafritz-F9A8D4?style=for-the-badge&logo=hackthebox&logoColor=F9A8D4&labelColor=0F172A" alt="Root-Me"></a>
+  <a href="https://www.linkedin.com/in/clarafritz"><img src="https://img.shields.io/badge/LinkedIn-Clara_Fritz-FBCFE8?style=for-the-badge&logo=linkedin&logoColor=EC4899&labelColor=F8FAFC" alt="LinkedIn"></a>
+  <a href="https://tryhackme.com/p/clarafritz"><img src="https://img.shields.io/badge/TryHackMe-clarafritz-FBCFE8?style=for-the-badge&logo=tryhackme&logoColor=EC4899&labelColor=F8FAFC" alt="TryHackMe"></a>
+  <a href="https://www.root-me.org/clarafritz"><img src="https://img.shields.io/badge/Root--Me-clarafritz-FBCFE8?style=for-the-badge&logo=hackthebox&logoColor=EC4899&labelColor=F8FAFC" alt="Root-Me"></a>
 </p>
 
 ---
