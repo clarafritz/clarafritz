@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Salut%2C+moi+c'est+Clara;2e+ann%C3%A9e+Bachelor+D%C3%A9veloppement+Web+(Fullstack);Transition+vers+la+Cybers%C3%A9curit%C3%A9+%26+CTF+Player" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F472B6&center=true&vCenter=true&width=750&lines=Salut%2C+moi+c'est+Clara;2e+ann%C3%A9e+Bachelor+D%C3%A9veloppement+Web+(Fullstack);%C3%89tudiante+Fullstack+%26+Cyber+%E2%80%A2+CTF+Player" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/clarafritz"><img src="https://img.shields.io/badge/LinkedIn-Clara_Fritz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://tryhackme.com/p/clarafritz"><img src="https://img.shields.io/badge/TryHackMe-clarafritz-212C42?style=for-the-badge&logo=tryhackme&logoColor=88CC14" alt="TryHackMe"></a>
-  <a href="https://www.root-me.org/clarafritz"><img src="https://img.shields.io/badge/Root--Me-clarafritz-111827?style=for-the-badge&logo=hackthebox&logoColor=38BDF8" alt="Root-Me"></a>
+  <a href="https://www.linkedin.com/in/clarafritz"><img src="https://img.shields.io/badge/LinkedIn-Clara_Fritz-F9A8D4?style=for-the-badge&logo=linkedin&logoColor=F9A8D4&labelColor=0F172A" alt="LinkedIn"></a>
+  <a href="https://tryhackme.com/p/clarafritz"><img src="https://img.shields.io/badge/TryHackMe-clarafritz-F9A8D4?style=for-the-badge&logo=tryhackme&logoColor=F9A8D4&labelColor=0F172A" alt="TryHackMe"></a>
+  <a href="https://www.root-me.org/clarafritz"><img src="https://img.shields.io/badge/Root--Me-clarafritz-F9A8D4?style=for-the-badge&logo=hackthebox&logoColor=F9A8D4&labelColor=0F172A" alt="Root-Me"></a>
 </p>
 
 ---
