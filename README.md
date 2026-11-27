@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Salut%2C+moi+c'est+Clara;2e+ann%C3%A9e+Bachelor+D%C3%A9veloppement+Web+(Fullstack);Pratique+Cybers%C3%A9curit%C3%A9+%E2%80%A2+CTF+Player+(Root-Me+%2F+TryHackMe)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Salut%2C+moi+c'est+Clara;2e+ann%C3%A9e+Bachelor+D%C3%A9veloppement+Web+(Fullstack);Cybers%C3%A9curit%C3%A9+(Autodidacte)+%E2%80%A2+CTF+Player+(Root-Me+%26+THM)" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -12,11 +12,12 @@
 
 ### À propos de moi
 
-Actuellement étudiante en **2e année de Bachelor Développement Web (Fullstack)**, je me forme en parallèle en autonomie à la **cybersécurité** dans l'objectif de me spécialiser dès l'an prochain (avec un attrait particulier pour la sécurité offensive, tout en restant ouverte aux différentes facettes du domaine au fil de mes découvertes).
+Actuellement étudiante en **2e année de Bachelor Développement Web (Fullstack)**, je me forme en parallèle en autonomie à la **cybersécurité** dans l'objectif de me spécialiser dès l'an prochain. Mon bagage en développement web me permet d'aborder la sécurité applicative et réseau en comprenant d'abord comment les systèmes sont conçus et développés.
 
-Pour monter en compétences concrètement, je combine :
-* L'entraînement régulier sur des plateformes **CTF** (**TryHackMe** et **Root-Me**).
-* La création de projets pratiques pour comprendre le fonctionnement interne des systèmes, des réseaux et leurs mécanismes de défense.
+Mon apprentissage en cybersécurité repose sur une démarche autodidacte structurée combinant :
+- La pratique régulière sur des plateformes **CTF** (**TryHackMe** et **Root-Me**) pour manipuler les outils et méthodologies en laboratoire.
+- La réalisation de **cartes mentales et fiches de synthèse** pour consolider les notions théoriques (réseau, systèmes, cryptographie, sécurité web).
+- Le développement de projets personnels pour relier mes compétences en développement web aux problématiques de sécurité.
 
 > **Objectifs & Disponibilités :**
 > * **Recherche de Stage (4 mois) :** Avril à Juillet 2027.
@@ -42,10 +43,12 @@ Pour monter en compétences concrètement, je combine :
 ![MongoDB](https://img.shields.io/badge/MongoDB-1E293B?style=flat-square&logo=mongodb&logoColor=47A248)
 ![C](https://img.shields.io/badge/C_(Prochainement)-1E293B?style=flat-square&logo=c&logoColor=A8B9CC)
 
-**Cybersécurité & Analyse Réseau (Apprentissage autonome)**  
+**Cybersécurité & Outils (Apprentissage autonome)**  
 ![Wireshark](https://img.shields.io/badge/Wireshark-1E293B?style=flat-square&logo=wireshark&logoColor=1679A7)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite_(En_cours)-1E293B?style=flat-square&logo=burpsuite&logoColor=FF6633)
-![CTF](https://img.shields.io/badge/CTF_&_Pentest_Basics-1E293B?style=flat-square&logo=kalilinux&logoColor=38BDF8)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-1E293B?style=flat-square&logo=burpsuite&logoColor=FF6633)
+![Gobuster](https://img.shields.io/badge/Gobuster-1E293B?style=flat-square&logo=kalilinux&logoColor=38BDF8)
+![Hydra](https://img.shields.io/badge/Hydra-1E293B?style=flat-square&logo=kalilinux&logoColor=38BDF8)
+![CTF](https://img.shields.io/badge/CTF_&_Notions_Théoriques-1E293B?style=flat-square&logo=kalilinux&logoColor=38BDF8)
 
 **Systèmes, Scripting & Outils**  
 ![Linux](https://img.shields.io/badge/Linux-1E293B?style=flat-square&logo=linux&logoColor=FCC624)
@@ -59,10 +62,10 @@ Pour monter en compétences concrètement, je combine :
 ### Projets Techniques
 
 #### En ligne
-* **[CryptoLab](https://github.com/clarafritz/CryptoLab)** — *Python / Flask*  
+- **[CryptoLab](https://github.com/clarafritz/CryptoLab)** — *Python / Flask*  
   Laboratoire web interactif conçu pour mettre en pratique la cryptographie classique et l'analyse fréquentielle automatisée.  
   *Application en ligne :* [clarafritz.pythonanywhere.com](https://clarafritz.pythonanywhere.com)
 
-* **[To-Do List](https://github.com/clarafritz/todolist)** — *Développement Web*  
+- **[To-Do List](https://github.com/clarafritz/todolist)** — *Développement Web*  
   Application web de gestion de tâches déployée en ligne pour pratiquer le développement frontend/fullstack.  
   *Application en ligne :* [todolist-bloom.vercel.app](https://todolist-bloom.vercel.app/)
