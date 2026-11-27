@@ -45,10 +45,10 @@ Mon apprentissage en cybersécurité repose sur une démarche autodidacte struct
 
 **Cybersécurité & Outils (Apprentissage autonome)**  
 ![Wireshark](https://img.shields.io/badge/Wireshark-1E293B?style=flat-square&logo=wireshark&logoColor=1679A7)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-1E293B?style=flat-square&logo=burpsuite&logoColor=FF6633)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-1E293B?style=flat-square&logo=kalilinux&logoColor=FF6633)
 ![Gobuster](https://img.shields.io/badge/Gobuster-1E293B?style=flat-square&logo=kalilinux&logoColor=38BDF8)
 ![Hydra](https://img.shields.io/badge/Hydra-1E293B?style=flat-square&logo=kalilinux&logoColor=38BDF8)
-![CTF](https://img.shields.io/badge/CTF%20%26%20Notions%20Th%C3%A9oriques-1E293B?style=flat-square&logo=kalilinux&logoColor=38BDF8)
+![CTF](https://img.shields.io/badge/CTF_&_Notions_Theoriques-1E293B?style=flat-square&logo=kalilinux&logoColor=38BDF8)
 
 **Systèmes, Scripting & Outils**  
 ![Linux](https://img.shields.io/badge/Linux-1E293B?style=flat-square&logo=linux&logoColor=FCC624)
